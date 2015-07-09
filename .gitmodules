@@ -1,3 +1,6 @@
 [submodule "web"]
 	path = web
 	url = git@github.com:ethahae/gtc.git
+[submodule "common"]
+	path = common
+	url = git@github.com:ethahae/gtcommon.git
